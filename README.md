@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio Bocchi</h1>
 <h3 align="center">A passionate fullstack and blockchain developer!</h3>
 
-- 🔭 I’m currently working on **SphereOne company**
+- 🔭 I’m currently looking for work
 
 - 🌱 I’m currently learning **Frontend frameworks, blockhain, always learning something!**
 
